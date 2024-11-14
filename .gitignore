@@ -10,3 +10,6 @@ __pycache__/
 #Логи и временные файлы
 *.log
 *.tmp
+log.*
+damp.*
+lammpstask.py
